@@ -44,7 +44,7 @@ function runTests() {
     "Time test failed"
   );
 
-  console.log("✅ All 5 tests passed!");
+  console.log("All 5 tests passed!");
 }
 
 runTests();
